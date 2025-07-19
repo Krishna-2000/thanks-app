@@ -1,6 +1,4 @@
-import { useState } from 'react';
 import './Message.css';
-import { UserContext } from '../../context/UserContext';
 import { useUserMessageGetter } from '../../hook/useUserMessageGetter';
 
 function Message(){ 

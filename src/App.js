@@ -1,12 +1,12 @@
 import './App.css';
-import { Route, Routes, useLocation } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Start from './components/Start/Start';
 import Game from './components/Game/Game';
 import Message from './components/Message/Message';
-import FadeTransition from './components/FadeTransition/FadeTransition';
+// import FadeTransition from './components/FadeTransition/FadeTransition';
 
 function App() {
-  const location = useLocation();
+  // const location = useLocation();
   return (
     // <FadeTransition trigger={location.pathname}>
     <div className="App">

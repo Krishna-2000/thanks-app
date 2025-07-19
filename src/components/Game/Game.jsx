@@ -28,7 +28,7 @@ const Game = () => {
 
       return () => clearTimeout(timer);
     }
-  },[answers]);
+  },[answers,navigate]);
 
   const handleChange = (index, value) => {
     const updated = [...answers];
