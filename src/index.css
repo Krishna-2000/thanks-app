@@ -10,14 +10,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;  
+  background-size: contain;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-@media (max-width: 600px) {
-  body {
-    background-size: contain;
-  }
 }
