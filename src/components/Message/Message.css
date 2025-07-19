@@ -1,0 +1,16 @@
+.scroll-container {
+  position: relative;
+  width: 300px; /* adjust based on your scroll image */
+  height: 600px; /* adjust to fit */
+  margin: 0 auto;
+  background-size: contain;
+}
+
+.scroll-inner {
+  position: absolute;
+  top: 20%; /* leave space for scroll top cap */
+  bottom: 10%; /* leave space for scroll bottom cap */
+
+  overflow-y: auto;
+}
+

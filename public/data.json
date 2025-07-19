@@ -1,0 +1,11 @@
+[
+  { "name": "Alice", "age": 25,
+    "message": "Purposes:Paragraphs are used to break down large amounts of text into manageable sections, making it easier for the reader to follow the author's train of thought. They also help to isolate and develop specific points or ideas within an essay, article, or other written work.StructureA paragraph usually contains a topic sentence, which introduces the main idea of the paragraph, followed by supporting sentences that provide details, evidence, or examples related to that idea. A concluding sentence may summarize the main point or transition to the next paragraph. \nLength:\nWhile there's no strict rule, paragraphs generally range from a few sentences to several sentences in length. The ideal length can vary depending on the context and purpose of the writing. Grammarly says a good paragraph is often between 100-200 words, with a maximum of five sentences. \nIndentation:\nParagraphs are typically indicated by indentation at the beginning of the first sentence, although some styles of writing may use other methods for paragraph separation. \nExample:\nA paragraph could begin with the topic sentence, The first step in making a cake is to gather all the ingredients, and then be followed by sentences describing the specific ingredients and quantities needed. "
+  },
+  { "name": "Bob", "age": 30 ,
+    "message": "Goodbye, world!"
+    },
+  { "name": "Charlie", "age": 28 ,
+    "message": "Welcome to the jungle!"
+    }
+]

@@ -1,0 +1,33 @@
+.start-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+
+
+.start-form input {
+  padding: 10px;
+  width: 200px;
+  margin: 10px 0;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.start-form button {
+  padding: 10px 20px;
+    width: 220px;
+  font-size: 1rem;
+  background-color: #83312e;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.start-form button:hover {
+  background-color: #45a049;
+}

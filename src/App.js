@@ -1,24 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import { Route, Routes, useLocation } from 'react-router-dom';
+import Start from './components/Start/Start';
+import Game from './components/Game/Game';
+import Message from './components/Message/Message';
+import FadeTransition from './components/FadeTransition/FadeTransition';
 
 function App() {
+  const location = useLocation();
   return (
+    // <FadeTransition trigger={location.pathname}>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Routes>
+        <Route path="/" element={<h2>Welcome Home</h2>} />
+        <Route path="/about" element={<h2>About Page</h2>} />
+        <Route path="/contact" element={<h2>Contact Page</h2>} />
+        <Route path="/start" element={<Start/>}/>
+        <Route path="/game" element={<Game/>}/>
+        <Route path="/message" element={<Message/>}/>
+      </Routes>
     </div>
+    // </FadeTransition>
   );
 }
 
