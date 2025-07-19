@@ -11,10 +11,10 @@ function App() {
     // <FadeTransition trigger={location.pathname}>
     <div className="App">
       <Routes>
-        <Route path="/" element={<h2>Welcome Home</h2>} />
+        {/* <Route path="/" element={<h2>Welcome Home</h2>} />
         <Route path="/about" element={<h2>About Page</h2>} />
-        <Route path="/contact" element={<h2>Contact Page</h2>} />
-        <Route path="/start" element={<Start/>}/>
+        <Route path="/contact" element={<h2>Contact Page</h2>} /> */}
+        <Route path="/" element={<Start/>}/>
         <Route path="/game" element={<Game/>}/>
         <Route path="/message" element={<Message/>}/>
       </Routes>
