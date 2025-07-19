@@ -1,7 +1,8 @@
 .scroll-container {
   position: relative;
-  width: 300px; /* adjust based on your scroll image */
+  width: 80%; /* adjust based on your scroll image */
   height: 600px; /* adjust to fit */
+  max-width: 600px;
   margin: 0 auto;
   background-size: contain;
 }
