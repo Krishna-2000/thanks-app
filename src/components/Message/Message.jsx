@@ -12,8 +12,13 @@ function Message(){
         <div className="scroll-container">
   <div className="scroll-inner">
     <div className="scroll-content">
-      <h2>Data for {data.name}</h2>
-            <p>Message:{data.message}</p>
+      <h2>Hey {data.name} ...</h2>
+            <p className="message-text">{data.message.split('\n').map((line, idx) => (
+  <span key={idx}>
+    {line}
+    <br /><br/>
+  </span>
+))}</p>
     </div>
   </div>
 </div>
