@@ -28,7 +28,7 @@
       "message":"I don’t even know where to begin or how to truly thank you. You’ve been more than just a mentor — you’ve guided and supported me like a friend and brother throughout my time here.\nRight from the day you joined, I felt that warmth and connection with you. Working alongside you always felt easy and comforting, like working with family. I’ll never forget how you would always reassure me, saying I could reach out to you anytime — and you really meant it.\nAs I leave now, I want to sincerely apologize for any mistakes I might have made along the way. During my toughest days, you were there — checking in on me, reminding me that my time and energy are too valuable to waste on worries.\nThank you, Kiran, for being such a wonderful colleague and for always looking out for me. I truly admire your dedication and hard work, and I know you’ll achieve amazing things. Wishing you all the happiness and success in the world."
     },
     {
-      "name":"Akanksha",
+      "name":"Aakanksha",
       "message":"It’s a little sad that I’m leaving before really getting to know you, but I’m sure this is going to be such an amazing journey for you. The team here is wonderful, and you’ll always find help whenever you need it — just don’t hesitate to reach out.\nI know you are going to do great and make your mark! If I can leave you with just one little piece of advice: first impressions go a long way here… you already know the secret now, hehe.\nAll the very best to you!"
     },
     {
@@ -76,11 +76,11 @@
       "message":"You were the very first person to welcome me to the team, and that really meant a lot to me. You’ve always been so confident and wonderful to be around — the kind of person who lights up the room with their presence. I’ve always admired the way you conduct programs, manage the crowd, and carry that amazing aura of yours.\nWhen I first joined, it was a little hard for me as an introvert, but you made sure I got my share of speaking time in forums and helped me feel at ease within the team.\nAnd of course, I still remember that cricket game I joined… aah, I know — I’ll never really get better at it! That day I told myself I’d try to be more sporty, but… well, some things are better left as they are, I guess. Hehe.\nThank you for making my journey here so much more comfortable and memorable!"
     },
     {
-      "name":"Adithya",
+      "name":"Aditya",
       "message":"It was truly wonderful having you on the team. Even though we didn’t get to work closely, you were always someone I could count on whenever I ran into challenges with React or anything else. You were always so approachable, and your explanations were spot on — clear and patient.\nI’m definitely going to miss those chess games we played! I always looked forward to them and really enjoyed those little breaks with you.\nWishing you all the happiness and success in the world, Adithya. Stay awesome!"
     },
     {
-      "name":"Shree",
+      "name":"Shrishailya",
       "message":"It hasn’t been very long since we met, but it was genuinely lovely getting to know you and spending time together. I’ve always admired how you’re living the life you’ve dreamt of — it’s inspiring to see someone so confident and content in their own path.\nAll those little conversations we shared were so fun and engaging, and I truly enjoyed them. You brought such a light and warmth to every interaction. I’ll definitely keep some of the tips and advice you shared with me — they’ve stayed in my mind and will surely come in handy.\nWishing you all the very best for everything that’s ahead. Keep shining and living life on your terms — it’s beautiful to see."
     },
     {
@@ -114,5 +114,9 @@
     {
       "name":"Deepika",
       "message":"I just wanted to take a moment to sincerely thank you for all the support you’ve given me during my time here. You were always my first point of contact whenever I ran into challenges, and you handled everything so quickly and effectively every single time.\nI’ve truly appreciated how you always made sure everyone felt heard and seen, and how effortlessly you kept everything running smoothly for the team. Your ability to stay calm and help everyone feel at ease has always stood out to me.\nIt’s been a real pleasure working with you, and I wish you all the best in everything that lies ahead!"
+    },
+    {
+      "name":"Sajini",
+      "message":"It has truly been great working with you! You’ve always brought such positivity, calmness, and warmth to the team, and that’s something I’ve really admired. Whether it was the way you approached challenges or collaborated with others, you always made things look effortless and graceful.\nEven in the short time we’ve worked together, I’ve learned so much from your attitude, professionalism, and the way you carry yourself — always kind, always composed. You’ve been a wonderful teammate and a genuinely lovely person to be around.\nWishing you continued success in everything you do! I hope our paths cross again in the future."
     }
 ]
